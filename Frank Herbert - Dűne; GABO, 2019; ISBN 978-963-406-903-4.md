@@ -249,7 +249,7 @@ Liet meghalt, de nem szabad elfelejteni. Csakobsza szokás.
 
 *„Nézzétek! Hiszen nincs kezem!”*
 
---
+---
 
 *„Nézzétek! Van kezem!”*
 
