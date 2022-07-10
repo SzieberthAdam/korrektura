@@ -182,7 +182,7 @@ Megfordult a köpenyéből kialakított függőágyban, letette a lábait a kőr
 
 > How to get a message out to the Bene Gesserit? she wondered.
 
-*– Hogy lehetne üzenetet küldeni a Bene Gesseritnek?* – tűnődött.
+&nbsp;&nbsp;&nbsp;&nbsp;*– Hogy lehetne üzenetet küldeni a Bene Gesseritnek?* – tűnődött.
 
 
 ## 344. oldal, 14–15. bekezdés
