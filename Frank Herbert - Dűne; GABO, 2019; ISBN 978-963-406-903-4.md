@@ -129,7 +129,7 @@ Jessica érezte, hogy feltolul benne a fájdalom, és elfordult.
 
 ---
 
-Jessica érezte, hogy elönti a fájdalom, és elfordult.
+Jessica érezte, hogy önti el a fájdalom, és elfordult.
 
 
 ## 304. oldal, 13. bekezdés
