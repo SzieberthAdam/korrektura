@@ -57,13 +57,11 @@
 
 > A Bene Gesserit módszer nem került kellő kiemelésre a fogalmazásban.
 
-Aztán, hiszen Bene Gesserit volt, megkereste önmagában a magyarázatot erre a különös viselkedésre, és meg
-is találta kimértsége okát: *Félek a fiamtól.*
+Aztán, hiszen Bene Gesserit volt, megkereste önmagában a magyarázatot erre a különös viselkedésre, és meg is találta kimértsége okát: *Félek a fiamtól.*
 
 ---
 
-Aztán, mivel a Bene Gesseritek a furcsaságra mindig önmagukban keresik a magyarázatot, kereste, és meg is 
-találta kimértsége okát: *Félek a fiamtól.*
+Aztán, mivel a Bene Gesseritek az ilyen különös viselkedésre mindig önmagukban keresik a magyarázatot, így tett, és meg is találta kimértsége okát: *Félek a fiamtól.*
 
 
 ## 283. oldal, 15. bekezdés
@@ -164,7 +162,7 @@ Képzeljenek, amit csak akarnak, csak higgyenek bennünk!
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;– A törvény, ami előírja, hogy miként választjuk vezetőinket, csak törvény – mondta Stilgar. – De valójában az embereknek igazságra van szükségük, ami nem következik belőle.
+&nbsp;&nbsp;&nbsp;&nbsp;– A törvény, ami előírja, hogy miként választjuk vezetőinket, csak törvény – mondta Stilgar. – De az embereknek valójában igazságra van szükségük, ami nem feltétlenül következik belőle.
 
 
 ## 338. oldal, 2. bekezdés
