@@ -72,7 +72,7 @@
 
 ## 59. oldal, 7. bekezdés (első megjelenés a sokból)
 
-> Észszerű névváltoztatás. Azonban az angol eredetiben *Farok* nevű fremen szerepel *Dűne* című első könyvben is. Sajnos azonban a GABO 2019-as kiadásában (ISBN 978-963-406-903-4) Forak néven szerepel Faruk helyett. Egységesíteni kellene.
+> Észszerű névváltoztatás. Azonban az angol eredetiben *Farok* nevű fremen szerepel *Dűne* című első könyvben is. Sajnos azonban a GABO 2019-as kiadásában (ISBN 978-963-406-903-4) Forak néven szerepel Faruk helyett. Egységesíteni kellene. A Forak talán jobb.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Az én nevem Faruk – szólt az öreg. (...)
 

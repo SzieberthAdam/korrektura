@@ -9,6 +9,16 @@
 
 *Megjegyzés: A 143. oldalt megelőzően is voltak hibák, de akkor még nem jegyzeteltem.*
 
+
+## Formátum
+
+*Mindig a vonal fölött a helytelen,*
+
+---
+
+*vonal alatt a javított!*
+
+
 ## 143. oldal, 1. bekezdés
 
 &nbsp;&nbsp;&nbsp;&nbsp;– A nagyok három-négy négyzetkilométeren őrködnek.
@@ -220,7 +230,7 @@ Megfordult a köpenyéből kialakított függőágyban, letette a lábait a kőr
 
 ## 387. oldal, 6. bekezdés (első megjelenés a sokból)
 
-> Észszerű névváltoztatás. Azonban az angol eredetiben *Farok* nevű fremen szerepel *A Dűne messiása* című könyvben is. Sajnos azonban a GABO 2020-as kiadásában (ISBN 978-963-406-904-1) Faruk néven szerepel Forak helyett. Egységesíteni kellene.
+> Észszerű névváltoztatás. Azonban az angol eredetiben *Farok* nevű fremen szerepel *A Dűne messiása* című könyvben is. Sajnos azonban a GABO 2020-as kiadásában (ISBN 978-963-406-904-1) Faruk néven szerepel Forak helyett. Egységesíteni kellene. A Forak talán jobb.
 
 &nbsp;&nbsp;&nbsp;&nbsp;A balján a Forak nevű férfi keskeny, szakállas arca fordult felé.
 
