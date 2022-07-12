@@ -244,11 +244,11 @@
 
 ## 248. oldal, 7. bekezdés
 
-&nbsp;&nbsp;&nbsp;&nbsp;– Nem vagy zsarnok! – tiltakozott Csani, kendőjével bajlódva. – A törvényaid igazságtalanok.
+&nbsp;&nbsp;&nbsp;&nbsp;– Nem vagy zsarnok! – tiltakozott Csani, kendőjével bajlódva. – A törvényeid igazságtalanok.
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;– Nem vagy zsarnok! – tiltakozott Csani, kendőjével bajlódva. – A törvényaid igazságosak.
+&nbsp;&nbsp;&nbsp;&nbsp;– Nem vagy zsarnok! – tiltakozott Csani, kendőjével bajlódva. – A törvényeid igazságosak.
 
 
 ## 289. oldal, 2. bekezdés
